@@ -1,9 +1,8 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
+  "greeting": "Yo",
+  "name": "Sankha",
   "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "https://www.dropbox.com/scl/fi/f7clqa5nj8i76p6eubu0t/Photo-20-02-25-3-00-01-PM.jpg?rlkey=79n08nt2fycww3hnwtzhxjy3j&st=18iyrvhs&dl=0",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
